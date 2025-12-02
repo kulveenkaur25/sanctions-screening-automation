@@ -27,8 +27,5 @@ It integrates multiple regulatory datasets (OFAC, BIS, UN, MEU/MIEU) and builds 
 python src/data_integration.py
 
 
-Developer
-Kulveen Kaur
-LinkedIn: https://www.linkedin.com/in/kulveenkaur15/
 
 
