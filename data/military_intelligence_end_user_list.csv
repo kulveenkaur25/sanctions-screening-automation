@@ -1,0 +1,130 @@
+name,address,country,sector,mieul_category,risk_reason,added_date,license_requirement,remarks
+AeroQuantum Intelligence Center,Beijing, China,Intelligence Systems,MI-End User,Development of airborne intelligence platforms,2020-01-17,License Required for All Items,Suspected integration with ISR aircraft
+Alpha Military Intelligence Bureau,Moscow, Russia,Signals Intelligence,MI-End User,Signal interception & analysis units,2019-11-04,License Required,Linked to state intelligence operations
+Altima Reconnaissance Division,Chengdu, China,Defense Intelligence,MI-End Use,Drone-based intelligence data processing,2021-05-22,License Required,UAV intelligence-tasking indicators present
+Arctic Strategic Command Unit,St. Petersburg, Russia,Defense Intelligence,MI-End User,Analysis of satellite intelligence feeds,2018-12-29,License Required,Suspected military satellite data utilization
+Asia-Pacific AI Recon Group,Shanghai, China,AI Surveillance,MI-End Use,AI-enabled pattern detection for intel ops,2019-06-11,License Required,Algorithm signatures match classified systems
+Atlas GeoSpatial Intelligence Lab,Wuhan, China,Geospatial Analytics,MI-End User,Target mapping & imaging analysis,2020-09-05,License Required for All Items,Imagery segmentation beyond civilian needs
+Aurora Defense Intelligence Ops,Tehran, Iran,Signals Intelligence,MI-End User,Encrypted communication monitoring,2017-08-27,License Required,Possible classified monitoring systems
+Beijing Military Data Fusion Center,Beijing, China,Analytics,MI-End Use,Fusion of battlefield sensor data,2021-04-02,License Required,Suspected integration with active combat nodes
+Blue Ocean Maritime Intel Office,Qingdao, China,Naval Intelligence,MI-End User,Naval routes analysis & vessel tracking,2018-03-18,License Required,Sub-surface mapping indicators detected
+BrightStar Tactical Info Bureau,Lahore, Pakistan,Defense Analysis,MI-End Use,Tactical battlefield analysis tools,2020-10-21,License Required,Possible integration with restricted intel software
+Caspian Electronic Intel Works,Rostov, Russia,Electronic Intelligence,MI-End User,RF signal monitoring units,2021-12-01,License Required for All Items,Classified waveform analysis signals
+Central Defense Reconnaissance Unit,Beijing, China,ISR Systems,MI-End Use,Real-time drone & satellite feed processing,2019-05-03,License Required,UAV swarm intelligence logs found
+Changzhou MI Targeting Office,Changzhou, China,Targeting Systems,MI-End User,Target attribution & battlefield analysis,2017-11-19,License Required for All Items,Military-grade targeting metadata
+Chongqing Tactical Intelligence Hub,Chongqing, China,Defense Analytics,MI-End Use,Combat scenario simulation & analytics,2020-07-30,License Required,Suspected AI-enabled threat projections
+Cobalt Intelligence Engineering,Kazan, Russia,Intelligence R&D,MI-End User,Classified intel system modeling,2018-04-09,License Required for All Items,Linked to national intel programs
+Combat Data Processing Bureau,Beijing, China,Defense Data,MI-End Use,Processing of battlefield communication logs,2021-02-27,License Required,AI patterns match battlefield networks
+Crimson Covert Surveillance Labs,Wuhan, China,Technical Intelligence,MI-End User,Signal decoding and cryptographic analysis,2019-09-24,License Required for All Items,Detected covert decoding tools
+Cyber Defense Intelligence Cell,Shanghai, China,Cyber Intelligence,MI-End User,Offensive cyber intel harvesting,2020-01-12,License Required,Possible nation-state cyber operations
+Dalian Defense Imagery Unit,Dalian, China,Imagery Intelligence,MI-End User,High-resolution imagery analysis,2018-10-30,License Required for All Items,Pixel analysis matches restricted MIL systems
+Delta MI Analytics Center,Beijing, China,Defense Analytics,MI-End Use,Advanced data clustering for intel ops,2021-06-05,License Required,ML models optimized for battlefield intel
+Diamond Strategic Surveillance Corps,Chengdu, China,Defense Surveillance,MI-End User,Monitoring & threat detection,2017-05-14,License Required for All Items,Reports tied to missile monitoring sites
+Eastern Military Intelligence Bureau,Wuhan, China,Command Intelligence,MI-End User,Operational intelligence fusion,2020-12-11,License Required,Possible involvement in classified missions
+Elite Satellite Imaging Ops,Rostov, Russia,Satellite Intelligence,MI-End Use,High-fidelity satellite imagery extraction,2019-03-09,License Required for All Items,Imagery precision beyond civilian norms
+Empire Signal Interpretation Unit,Beijing, China,Signals Intelligence,MI-End User,Multi-band signal interception,2018-09-23,License Required,EW nodes detected in signal logs
+Everest MI Evaluation Office,Lahore, Pakistan,Threat Analysis,MI-End Use,Intel threat models & ranking,2021-11-02,License Required,Threat modeling tools match battlefield use
+Falcon Military Intel Research Lab,Islamabad, Pakistan,Analysis,MI-End User,RF monitoring & decoding labs,2019-08-12,License Required for All Items,Encrypted feed extraction patterns found
+Fars Covert Ops Division,Tehran, Iran,Intelligence Ops,MI-End Use,Secret intelligence collection systems,2020-04-14,License Required,Known for covert technical procurement
+FutureTech Defense Intelligence AI,Shanghai, China,AI Surveillance,MI-End User,AI-assisted target detection,2018-01-27,License Required for All Items,AI resembles restricted defense modules
+Galaxy MI Signal Ops,Wuhan, China,Signal Monitoring,MI-End User,Waveform pattern classification,2021-05-01,License Required,Matched to EW threat logs
+Global Covert Information Bureau,Beijing, China,Defense Intelligence,MI-End Use,Encrypted platform analysis,2017-10-07,License Required for All Items,Encryption keys beyond civilian standards
+Golden Horizon Recon Office,Chengdu, China,Recon Intelligence,MI-End User,Real-time combat intelligence synthesis,2020-03-16,License Required,Suspected linkage to restricted recon groups
+Green Valley Tactical Intel,Beijing, China,Tactical Intelligence,MI-End Use,Battlefield telemetric stream processing,2018-12-19,License Required for All Items,Telemetry consistent with active ops
+Hafez MI Tracking Lab,Shiraz, Iran,Threat Tracking,MI-End User,Tracking of satellite signals,2019-06-17,License Required,Suspected missile telemetry tracking
+Harbin Strategic Info Unit,Harbin, China,ISR & Intelligence,MI-End User,ISR data decryption & analysis,2021-09-09,License Required for All Items,Downloaded classified satellite packets
+Horizon MI Analytics Bureau,Chongqing, China,AI Intelligence,MI-End Use,AI-based predictive targeting,2020-10-22,License Required,AI resembles predictive missile targeting
+Imperial Covert Analysis Unit,Shanghai, China,Defense Intelligence,MI-End Use,Decryption of battlefield communication logs,2018-06-02,License Required,Linked with classified intercept projects
+Industrial Military Signal Unit,Harbin, China,Signals Intelligence,MI-End User,Procurement of RF interception hardware,2020-03-27,License Required for All Items,Suspected signal-capture operations
+Infinite Military Data Bureau,Beijing, China,Data Intelligence,MI-End Use,Data-cleaning pipelines for intelligence feeds,2017-04-16,License Required,ML models match military datasets
+Inspire MI Operations Office,Wuhan, China,Intelligence Ops,MI-End User,Encrypted intelligence routing,2019-10-09,License Required for All Items,Routing signatures linked to covert ops
+Iran Strategic Analytics Hub,Tehran, Iran,Defense Intelligence,MI-End User,Threat analysis using acquired satellite data,2021-12-17,License Required,Sensitive acquisition of mapping datasets
+IronBridge Intelligence Works,Minsk, Belarus,Defense Intelligence,MI-End Use,Missile targeting analysis platform testing,2018-02-15,License Required for All Items,Target mapping beyond civilian limits
+Jade Covert Intelligence Lab,Chengdu, China,Surveillance Analysis,MI-End User,Cross-platform surveillance video fusion,2020-08-21,License Required,Video metadata linked to restricted APIs
+Jiangsu Intelligence Signal Ops,Jiangsu, China,Signals Intelligence,MI-End User,Acquisition of specialized antennas,2019-09-14,License Required,Possible use in EW monitoring
+Jinlong MI Algorithms Lab,Beijing, China,AI Intelligence,MI-End Use,Development of battlefield prediction models,2021-03-11,License Required for All Items,AI tuned for tactical battle outcomes
+Kaihua Strategic Defense Unit,Shanghai, China,Intelligence Processing,MI-End User,Aggregation of multi-source intel streams,2017-07-01,License Required,Indicators of multi-domain intel fusion
+Karam MI Surveillance Dept,Wuhan, China,Surveillance,MI-End User,Facial recognition for military checkpoints,2019-05-08,License Required for All Items,Accuracy exceeds civilian systems
+KazTech Intelligence Hub,Astana, Kazakhstan,Defense Intelligence,MI-End Use,Procurement of sensitive imagery tools,2020-01-23,License Required,Possible covert satellite imaging
+Kinetic Threat Intelligence Office,Chengdu, China,Threat Analytics,MI-End User,Threat clustering & event prediction,2018-11-07,License Required for All Items,Used for battlefield threat ranking
+Liberty MI Cyber Division,Moscow, Russia,Cyber Intelligence,MI-End User,Malware reverse-engineering for intel,2021-05-29,License Required,Suspected state cyber-warfare unit
+Lion MI Battlefield Analysis,Dubai, UAE,Defense Intelligence,MI-End Use,Combat scenario mapping tools,2019-03-22,License Required,Procurement patterns indicate military end-use
+Lotus Covert Targeting Bureau,Beijing, China,Targeting Analysis,MI-End User,Optimization of targeting algorithms,2020-04-28,License Required for All Items,Code structure resembles missile targeting
+Magma Recon Intelligence Lab,Shanghai, China,ISR Analysis,MI-End Use,Processing UAV reconnaissance datasets,2017-10-28,License Required,Flight metadata matches restricted UAV footage
+Marine MI Intelligence Cell,Qingdao, China,Naval Intelligence,MI-End User,Sonar pattern detection for submarines,2018-09-01,License Required for All Items,Detected military acoustic signatures
+Medina MI Security Office,Lahore, Pakistan,Defense Intelligence,MI-End Use,Military checkpoint data analytics,2020-06-19,License Required,Unusual data from sensitive locations
+MegaWave MI Electromagnetic Unit,Beijing, China,Electronic Intelligence,MI-End User,EM signal monitoring & capture,2019-01-31,License Required for All Items,Signal logs match EW collection
+Mercury Strategic Intel Center,Chengdu, China,Intelligence R&D,MI-End Use,Modeling of battlefield resource allocation,2021-07-26,License Required,AI used for conflict simulations
+MidEast Covert Monitoring Unit,Sharjah, UAE,Technical Intelligence,MI-End User,Procurement of covert RF sensors,2018-03-20,License Required for All Items,Suspected illicit acquisition network
+Mirage Tactical Intelligence Hub,Harbin, China,Battlefield Intel,MI-End Use,Real-time troop movement prediction tools,2019-12-15,License Required,Models match MIL tactical grid formats
+Nano Precision Intelligence Group,Beijing, China,Electronic Intelligence,MI-End User,Signal decryption for battlefield devices,2020-02-04,License Required for All Items,Decryption modules flagged
+NanoCore Cyber Recon Bureau,Moscow, Russia,Cyber Recon,MI-End Use,Strategic cyber intelligence scanning,2017-12-10,License Required,Network patterns linked to restricted ops
+NeoVision MI Surveillance Office,Shanghai, China,AI Surveillance,MI-End User,Facial-ID filtering for checkpoint intel,2018-05-14,License Required for All Items,Detected high-security checkpoint usage
+Neptune Satellite Recon Group,Qingdao, China,Satellite Intelligence,MI-End User,Low-orbit satellite surveillance analysis,2021-10-04,License Required,Imagery compression resembles military tools
+NorthStar Tactical Intelligence Lab,Harbin, China,Threat Intelligence,MI-End Use,Threat prioritization modeling,2018-06-08,License Required for All Items,Algorithmic structure resembles combat charts
+Omega Covert Intelligence Bureau,Shenzhen, China,Technical Intelligence,MI-End User,RF tracking & device attribution,2020-03-29,License Required,Signal mapping beyond commercial scope
+OmniDefense MI Data Center,Shanghai, China,ISR Analytics,MI-End Use,Classification of multi-domain ISR streams,2019-11-12,License Required for All Items,Telemetry linked to ISR missions
+OptiVision Covert Ops Lab,Chengdu, China,Optical Intelligence,MI-End User,Optical processing for surveillance systems,2017-07-27,License Required,Frames align with weapons-sighting footage
+Orbit Satellite Intelligence Office,Beijing, China,Satellite Intelligence,MI-End User,Satellite feed decoding & triage,2020-01-06,License Required for All Items,Suspected access to restricted satellites
+Pacific MI Recon Agency,Shanghai, China,Defense Intelligence,MI-End Use,Real-time enemy movement prediction,2021-06-11,License Required,High-confidence movement modeling
+PanAsia Intelligence Integration Lab,Wuhan, China,Intelligence Fusion,MI-End User,Integration of UAV and ground intelligence,2018-09-03,License Required for All Items,Integrated feeds indicate combat zone
+Peak Cyber Intelligence Bureau,Beijing, China,Cyber Intelligence,MI-End User,Acquisition of cyber-forensics tools,2020-08-22,License Required,Links to cyber threat extraction
+Pegasus Deep Recon Division,Harbin, China,Deep Surveillance,MI-End Use,Deep-learning threat classification,2019-04-16,License Required for All Items,AI resembles battlefield threat datasets
+Phoenix MI Warfare Analytics,Chengdu, China,Combat Analytics,MI-End User,Simulating cross-border skirmish scenarios,2021-01-29,License Required,Models show adversary behavior patterns
+Platinum Satellite Intel Works,Shanghai, China,Satellite Imagery,MI-End User,Sub-meter resolution analysis,2017-05-11,License Required for All Items,Beyond civilian commercial resolution
+PolarMilitary Recon Bureau,Minsk, Belarus,Defense Recon,MI-End User,Procurement of restricted mapping tools,2018-01-23,License Required,Mapped coordinates flagged
+Prime MI Decision Office,Islamabad, Pakistan,Strategic Intelligence,MI-End Use,High-level intelligence briefing analysis,2020-03-14,License Required for All Items,Linked to sensitive briefings
+Quantum Intel Prediction Lab,Beijing, China,AI Intelligence,MI-End User,Probabilistic enemy action prediction,2019-09-18,License Required,AI models tuned for adversary behavior
+Radar Military Intelligence Unit,Shanghai, China,ELINT,MI-End User,EW radar signal classification,2021-11-19,License Required for All Items,Waveform fingerprints detected
+Raven Military Monitoring Office,Rostov, Russia,Defense Surveillance,MI-End User,Monitoring sensitive troop corridors,2018-04-02,License Required,Suspected access to military sensors
+Red Crescent Covert Intel Group,Tehran, Iran,Intelligence Ops,MI-End Use,Covert intel extraction from foreign networks,2020-12-08,License Required for All Items,Identified abnormal foreign pings
+Redline ISR Analysis Hub,Beijing, China,ISR,MI-End User,Monitoring battlefield acoustic signatures,2017-10-16,License Required for All Items,Frequencies beyond civilian scope
+Royal MI Mapping Agency,Shanghai, China,Geospatial Intelligence,MI-End User,Military-grade geospatial simulation,2019-03-11,License Required,Contour modeling aligns with guided weapons
+Saffron Intelligence Node,Lahore, Pakistan,Covert Intelligence,MI-End User,Procurement of covert audio tools,2021-02-18,License Required,Hidden microphone networks detected
+Sahara Cyber Recon Office,Dubai, UAE,Cyber Recon,MI-End Use,Unauthorized access to global monitoring tools,2018-06-27,License Required,Patterns resemble state-sponsored ops
+Sapphire MI Satellite Division,Beijing, China,Satellite Intelligence,MI-End User,Satellite alignment & signature analysis,2020-04-29,License Required for All Items,Suspected controlled satellite lanes
+SeaBridge Intelligence Fleet,Qingdao, China,Naval Intelligence,MI-End User,Tracking naval fleets worldwide,2019-05-23,License Required,Flagged for naval intelligence activity
+Sentry Covert Signal Corps,Shanghai, China,SIGINT,MI-End User,HQ-level signal decryption,2017-02-08,License Required for All Items,Key extraction modules present
+Shadow Intelligence Analysis Unit,Chengdu, China,Strategic Intel,MI-End Use,Threat vectors simulation,2021-09-04,License Required,Strategic prediction models flagged
+Shining Horizon MI Systems,Wuhan, China,Defense Intelligence,MI-End User,Cross-domain intel observation network,2019-07-27,License Required,Data flows match operational intel
+SilverWave Covert Listening Bureau,Tehran, Iran,Technical Ops,MI-End User,Covert signal interception hardware,2020-06-14,License Required for All Items,Signal direction finders detected
+SkyBridge MI Targeting Office,Shanghai, China,Targeting Intelligence,MI-End Use,Target scoring algorithms for defense,2018-08-12,License Required,Algorithmic footprint matches restricted systems
+SkyCore Data Intelligence,Wuhan, China,Intel Data,MI-End User,Battlefield log ingestion & summary,2019-11-30,License Required for All Items,Log format resembles MIL operations
+SolarEdge MI Fusion Lab,Beijing, China,Intelligence Fusion,MI-End Use,Fusing HUMINT & SIGINT data,2021-01-06,License Required,HUMINT markers detected
+Solid Military Recon Office,Minsk, Belarus,Defense Recon,MI-End User,Recon unit-level mapping,2017-09-29,License Required for All Items,Coordinate precision beyond civilian norms
+South China National Intelligence Bureau,Shenzhen, China,Defense Intelligence,MI-End User,Classified intelligence extraction,2018-03-04,License Required,Associated with covert operations
+StarVision MI Predictive Lab,Chengdu, China,AI Intelligence,MI-End Use,AI prediction of military responses,2020-07-05,License Required for All Items,Predictions match battlefield scenarios
+SteelRay Intelligence Foundry,Harbin, China,Intel Manufacturing,MI-End Use,Hardware modules for classified systems,2019-10-12,License Required,Hardware footprints match MIL devices
+StoneBridge MI Cyber Unit,Beijing, China,Cyber Ops,MI-End User,Tactical cyber infiltration attempts,2021-05-14,License Required for All Items,Flagged as offensive unit
+Storm MI Battlefield Office,Shanghai, China,Battlefield Intelligence,MI-End User,Real-time combat data relay,2017-11-22,License Required,Telemetry consistent with active conflict zones
+Sun Military Satellite Recon Center,Qingdao, China,Satellite Imaging,MI-End User,Satellite heat-signature analysis,2018-04-14,License Required for All Items,Identified heat anomalies associated with missile tests
+Sunrise Deep Recon Division,Harbin, China,Recon Intelligence,MI-End Use,Deep-learning surveillance,2019-01-25,License Required,Modeling aligns with restricted surveillance
+Superior Covert Ops Bureau,Tehran, Iran,Covert Intelligence,MI-End Use,Clandestine monitoring & extraction,2020-03-31,License Required for All Items,Suspected transnational intel ops
+SwiftSatellite Recon Office,Shanghai, China,Satellite Recon,MI-End User,Tracking airborne military platforms,2021-09-10,License Required,Displayed restricted tracking ability
+TechBridge MI Algorithms Hub,Shenzhen, China,AI Intelligence,MI-End Use,Neural models for combat analysis,2017-06-22,License Required for All Items,Neural weights match battle datasets
+TechCore Military Intelligence,Chengdu, China,Defense Intelligence,MI-End User,HQ analysis augmentation tools,2018-05-19,License Required,Displays classified output formats
+TechNova MI Mapping Office,Harbin, China,Mapping Intelligence,MI-End Use,3D mapping for battlefield terrain,2019-08-14,License Required for All Items,Resolution suggests weapon-target mapping
+Titan Intelligence Grid,Beijing, China,Intel Grid Computing,MI-End User,Distributed intelligence pipeline,2021-01-27,License Required,Cluster resembles restricted intel grid
+TopLine MI Coordination Unit,Shanghai, China,Intel Coordination,MI-End User,Multi-unit intel coordination suite,2017-08-26,License Required for All Items,Role resembles headquarters operations
+TransAsia Strategic Intel,Qingdao, China,Strategic Analysis,MI-End Use,Classification of adversary behavior,2020-06-07,License Required,Patterns reflect national security analysis
+TriStar Covert Services,Wuhan, China,Covert Ops,MI-End User,Procurement of covert surveillance kits,2018-02-22,License Required for All Items,Equipment linked to unauthorized operations
+TwinTech Battlefield Intelligence,Chengdu, China,Combat Intelligence,MI-End Use,Target selection & threat scoring,2019-03-16,License Required,Threat scoring values match MIL applications
+UltraSecurity Intel Engineering,Beijing, China,Security Intelligence,MI-End User,Evaluation of encrypted defense packets,2021-11-03,License Required for All Items,Decrypted defense telemetry detected
+Universal MI Signal Bureau,Shanghai, China,SIGINT,MI-End User,RF interception systems testing,2017-04-01,License Required,Detected state-run EW transmissions
+Universe MI Tactical Cell,Harbin, China,Combat Intelligence,MI-End User,Combat doctrine modeling,2018-12-13,License Required for All Items,Model deviations match classified systems
+Vector Covert Ops Office,Qingdao, China,Covert Intelligence,MI-End User,Covert tracking and positioning tools,2020-05-30,License Required,Proximity sensors flagged
+Velox MI Cyber Division,Shanghai, China,Cyber Intelligence,MI-End Use,Advanced intrusion analytics,2019-07-21,License Required for All Items,Code footprint resembles offensive tools
+Venus Military Satellite Unit,Beijing, China,Satellite Intelligence,MI-End User,Satellite-based movement detection,2018-08-16,License Required,Detected matching missile test paths
+VisionTech Strategic Intelligence,Wuhan, China,Strategic Intel,MI-End User,High-level threat assessment,2021-02-12,License Required for All Items,Suspected forbidden threat matrices
+Vortex MI Surveillance Bureau,Shanghai, China,Surveillance Intelligence,MI-End User,Monitoring of secured regions,2017-09-05,License Required,Suspected surveillance into conflict zones
+Wuhan Deep Intelligence Lab,Wuhan, China,Deep Intelligence,MI-End Use,Deep analytics of secure networks,2019-01-29,License Required for All Items,Observed extraction of restricted traffic
+Xiang Covert Recon Office,Chengdu, China,Covert Ops,MI-End User,Ground-based covert intelligence ops,2020-10-24,License Required,Suspicious procurement of covert devices
+Xinjiang Intelligence Unit,Urumqi, China,Defense Intelligence,MI-End User,Monitoring of regional military corridors,2018-03-21,License Required for All Items,Patterns match restricted surveillance
+YellowStone Strategic Targeting,Lahore, Pakistan,Targeting Intelligence,MI-End Use,Target risk grading algorithms,2020-07-04,License Required,Algorithmic outputs match restricted weapon systems
+Yuan MI Control Systems,Shanghai, China,Intel Systems,MI-End User,Operational-level command intel tools,2019-11-18,License Required for All Items,Command-grade integration evidence
+Zenith Global Intelligence,Qingdao, China,Global Intelligence,MI-End User,Analysis of foreign military data,2021-10-14,License Required,Linked with cross-border intel activities
+Zhonghua MI Threat Bureau,Beijing, China,Threat Intelligence,MI-End User,Threat matrices for battlefield scenarios,2018-02-26,License Required for All Items,Threat output aligns with MIL datasets
+Zircon Intelligence Fusion Lab,Shanghai, China,Intelligence Fusion,MI-End Use,Multi-source threat fusion,2020-06-29,License Required,Fusion output flagged as high-risk
+Zubair Covert Intel Division,Karachi, Pakistan,Covert Intel,MI-End User,Covert procurement of intelligence tools,2019-12-04,License Required for All Items,Procurement linked to restricted items
+
+

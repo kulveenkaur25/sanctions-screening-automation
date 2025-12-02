@@ -1,0 +1,101 @@
+red_flag_id,description,category,severity,example_case,recommended_action
+RF001,Customer refuses to provide end-use details,End-Use,High,UAV buyer refuses to disclose mission,Escalate to compliance review
+RF002,Buyer insists on unusual routing,Routing,High,China → UAE → Iran,Block transaction & investigate
+RF003,Entity uses free email instead of corporate domain,Documentation,Medium,john93@gmail.com for large IC order,Request verification documents
+RF004,Payment from unrelated third party,Payment,High,EU company paying for Chinese defense buyer,Escalate & freeze order
+RF005,Repeated inquiries for controlled items,End-Use,High,Requests for IR optics & IMUs,Trigger export control review
+RF006,Customer on a known risk corridor list,End-User,High,Buyer in sensitive Karachi district,Conduct enhanced due diligence
+RF007,Incomplete purchase order,Documentation,Medium,Missing consignee details,Request more info
+RF008,Buyer requests “unmarked packaging”,End-Use,High,Covert shipping request,Block transaction
+RF009,End destination unclear,Routing,High,Multiple forwarding hubs,Confirm all parties
+RF010,Customer appears on watchlist hits,Fuzzy-Match,High,Name similar to Entity List firm,Perform manual name investigation
+RF011,Mismatch between business type and item,End-Use,High,Textile firm ordering missile chips,Escalate to compliance
+RF012,Unusual equipment quantities,End-Use,Medium,Single user buying 500 sensors,Verify intended use
+RF013,Too high technical specification,End-Use,High,Customer orders MIL-grade IMU,Request technical justification
+RF014,Unknown freight forwarder,Routing,Medium,New UAE re-exporter,Validate forwarder
+RF015,Phone disconnected / fake numbers,End-User,Medium,Sales rep unreachable,Require alternate contacts
+RF016,Company incorporated recently,End-User,Medium,1 month old robotics firm,Require additional KYC documents
+RF017,Customer insists on cash payments,Payment,High,$100k chip order cash,Reject order
+RF018,Customer rejects site visits,End-User,High,Refused facility checks,Escalate
+RF019,Customer modifies documents repeatedly,Documentation,Medium,3 versions of invoice,Perform deeper checks
+RF020,Customer unwilling to sign end-user certificate,End-Use,High,Refusal to sign statements,Block shipment
+RF021,Sensitive destination country,Routing,High,Shipments to sanctioned jurisdictions,Full export review
+RF022,Bad shipping history,Routing,Medium,Past seizures by customs,Investigate compliance history
+RF023,Customer provides false address,Documentation,High,Address leads to empty lot,Terminate relationship
+RF024,Request for bypassing screening,End-Use,High,"Ship quickly, no checks",Stop deal
+RF025,Multiple aliases used,End-User,High,Two business names,Request corporate documents
+RF026,Customer listed on negative media,End-User,High,Investigative journalism reports risk,Escalate
+RF027,Unusual urgency,Behavior,Medium,Same-day shipment,Ask for justification
+RF028,End-user unknown,End-User,High,Forwarder refuses consignee info,Escalate
+RF029,Frequent order cancellations,Behavior,Low,Pattern of cancelled orders,Monitor
+RF030,Dual-use item request from non-technical buyer,End-Use,Medium,Chemical firm ordering avionics,Review
+RF031,Technical questions too advanced,Behavior,Medium,Buyer asks about weaponization potential,Flag for review
+RF032,Request for “military upgrades”,End-Use,High,“Can this board operate missiles?”,Block
+RF033,High-risk geographic re-export hub,Routing,High,UAE → Iran pipeline,Enhanced due diligence
+RF034,Document tampering signs,Documentation,High,Fonts mismatched,Request originals
+RF035,Unregistered business,End-User,High,No government registry match,Reject
+RF036,Customer history includes compliance issues,End-User,High,Previous seizure incident,Escalate
+RF037,Bulk wire transfers from unknown banks,Payment,High,Payments from offshore Cayman bank,Investigate
+RF038,Customer refuses to identify end-recipient,End-Use,High,Forwarder says “confidential”,Reject
+RF039,Inconsistent website or social media,End-User,Low,Basic website without info,Perform soft due diligence
+RF040,Frequent account changes,Documentation,High,New emails each week,Flag
+RF041,Requests well-known restricted items,End-Use,High,High-power RF modules,Escalate
+RF042,No technical capability,End-User,Medium,Buyer can't explain why they need sensors,Request justification
+RF043,Shipment routing through conflict zones,Routing,High,Warzone logistics,Block
+RF044,Fake certifications,Documentation,High,False ISO certificate,Terminate relationship
+RF045,Frequent power users with vague use cases,End-Use,Medium,“For research”, request specifics
+RF046,Multiple similar companies ordering same item,Behaviour,High,Possible diversion network,Escalate
+RF047,Refusal to disclose investors,End-User,Low,Opaque ownership,Check corporate filings
+RF048,Known shell company traits,End-User,High,Minimal staff and website,Escalate due diligence
+RF049,High-risk nationality + sensitive item,End-Use,High,Iran entity buying avionics,Export block
+RF050,Customer listed in open-source risk mapping,End-User,Medium,NGO list mentions concerns,Review
+RF051,Order value mismatch,Payment,Medium,Overpayments,Review origin
+RF052,Bank account country mismatch,Payment,High,Firms in China using Iranian banks,Escalate
+RF053,Customer sends unsigned contract,Documentation,Low,Ask for signature
+RF054,Written communications imply misuse,Behavior,High,“For military project”,Block
+RF055,Repeated orders of identical restricted items,End-Use,High,RF amplifiers every month,Investigate diversion
+RF056,Customer uses VPN or hides IP,Behavior,Medium,IP mismatch with country,Verify
+RF057,Order through third-party marketplace,End-User,Low,Amazon order for sensors,Ask for end-user statement
+RF058,Mismatch in shipping weight,Documentation,Medium,Declared weight too low,Inspect
+RF059,Use of proxy locations,Routing,High,Hong Kong → Shenzhen → Iran,Escalate
+RF060,Customer requests “scrap invoice”,Documentation,High,Illegal invoicing request,Stop deal
+RF061,Purchasing behavior inconsistent with market,Behavior,Medium,Buying too cheap or too advanced,Check intention
+RF062,Non-responsive to compliance emails,Behavior,Medium,Two-week silence,Hold order
+RF063,Inconsistent answers during calls,Behavior,High,Changing end-use statements,Flag
+RF064,Unrelated commodities included,End-Use,Low,Random additions to order,Request clarification
+RF065,Customer references sanctioned entity,Behavior,High,“Partner is X on SDN list”,Block
+RF066,Shipment exceeds typical quantities,End-Use,High,1000 high-grade IMUs,Investigate
+RF067,Customer asks if items are “trackable”,Behavior,High,Suspicious questioning,Escalate
+RF068,No company registration tax number,Documentation,High,Invalid VAT,Terminate
+RF069,Forwarder known for diversion,Routing,High,Listed in open-source reports,Escalate
+RF070,Customer refuses video KYC,Documentation,Medium,“No camera”, Request alternative ID
+RF071,Multiple high-risk keyword patterns,Behavior,High,“Silent mode, encrypted, covert”,Flag
+RF072,Shell address (virtual office),Documentation,Medium,No physical facility,Request proof
+RF073,PO Box instead of warehouse,Documentation,Low,Request physical location
+RF074,Customer pushes to skip screening,Behavior,High,“Ship first, paperwork later”,Reject
+RF075,High-value purchase without references,End-User,High,$500k chip order,Request background check
+RF076,Request for CCL-sensitive items,End-Use,High,3A001, escalate to SME
+RF077,Customer attempts bribery,Behavior,High,“I can pay extra to skip checks”,Document & reject
+RF078,Foreign embassy involved unexplained,End-User,High,Diplomatic channel misuse,Escalate to legal
+RF079,Risk mismatch with revenue,End-User,Medium,Micro-company buying million-dollar hardware,Review
+RF080,Duplicate company names,Documentation,Medium,Two identical registered companies,Investigate
+RF081,Known high-risk city of export,Routing,High,Karachi port flagged,Enhanced checks
+RF082,Customer refuses to sign compliance declaration,Documentation,High,Block
+RF083,Sudden change of order mid-process,Behavior,Low,Just verify
+RF084,Unusual carrier requested,Routing,Medium,“Use unknown local carrier”,Check legitimacy
+RF085,Customer avoids local laws,Behavior,High,“Don’t declare this”,Reject
+RF086,Technical drawings requested,End-Use,High,Requests full manufacturing drawings,Escalate
+RF087,Orders for “spare parts” too broad,End-Use,Medium,Vague component orders,Request details
+RF088,Buyer name mismatch with documents,Documentation,High,Name not in registry,Investigate
+RF089,Customer claims “government project” without proof,End-User,Medium,Ask for evidence
+RF090,Shipment consolidation with unknown parties,Routing,High,Shared containers with risky firms,Investigate
+RF091,Customer pays more for faster shipping,Behavior,Low,Just verify documents
+RF092,Company uses unlicensed customs broker,Routing,Medium,Advise licensed broker
+RF093,Statements imply re-export to restricted region,Routing,High,“Going to another facility”,Escalate
+RF094,Customer asks for “silent” transaction,Behavior,High,Flag & reject
+RF095,Multiple attempts with different emails,Behavior,Medium,May indicate persistence to bypass controls
+RF096,Use of unverifiable personal ID,Documentation,High,ID from non-existent region,Reject
+RF097,Customer’s industry doesn’t match item,End-Use,High,Beauty salon ordering RF transmitters,Escalate
+RF098,Receiving address is residential,Documentation,Low,Request business address
+RF099,Multiple linked companies ordering together,End-User,High,Possible diversion network
+RF100,Customer lies about consignees,Documentation,High,Falsified consignee names,Terminate

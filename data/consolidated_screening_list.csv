@@ -1,0 +1,75 @@
+name,country,address,list_type,program,risk_level,source,notes
+AeroDefense Materials Group,China,Beijing,MILITARY_END_USER,EAR744,High,BIS,Matches MEU patterns for engine parts
+Alpha Robotics Institute,China,Shanghai,MILITARY_END_USER,EAR744,High,BIS,Autonomous combat robotics R&D
+Altima Missile Research Center,China,Chengdu,ENTITY_LIST,EAR744,High,BIS,Missile subsystem development
+Arctic Strategic Command Unit,Russia,St. Petersburg,MIEU,EAR744.22,High,BIS,Military-intelligence end user
+Atlas Precision Optics,China,Shenzhen,ENTITY_LIST,EAR744,High,BIS,Restricted night-vision component procurement
+Aurora Intelligence Agency,China,Beijing,MIEU,EAR744.22,High,BIS,Intelligence system integrator
+Beijing ElectroWar Systems,China,Beijing,ENTITY_LIST,EAR744,High,BIS,RF jamming & EW development
+Blue River Holdings,Iran,Tehran,OFAC_SDN,NPWMD,High,OFAC,Weapons proliferation concern
+BrightStar Guidance Systems,China,Wuhan,ENTITY_LIST,EAR744,High,BIS,IMU precision components for missile guidance
+Caspian Naval Engineering,Russia,Rostov,MEU,EAR744,High,BIS,Naval propulsion for restricted vessels
+Central Robotics Defense Lab,China,Beijing,MEU,EAR744,High,BIS,Tactical robotics systems
+Changzhou Military Optics,China,Changzhou,UVL,EAR744,Medium,BIS,Bona fides unverified
+Chongqing AeroTech,China,Chongqing,MEU,EAR744,High,BIS,UAV control systems
+Cobalt Defense Metallurgy,Russia,Kazan,DPL,EAR744,High,BIS,Diversion of missile alloys
+ComTech Warfare Labs,Russia,Moscow,MEU,EAR744,High,BIS,Electronic warfare analysis
+Cosmos Aerospace Navigation,China,Beijing,MEU,EAR744,High,BIS,GNSS-resistant navigation tools
+Crimson Surveillance Lab,China,Wuhan,MIEU,EAR744.22,High,BIS,Covert signal decoding
+Cyber Defense Intelligence Cell,China,Shanghai,MIEU,EAR744.22,High,BIS,Offensive cyber-intelligence collection
+Dalian Marine Dynamics,China,Dalian,MEU,EAR744,High,BIS,UUV component manufacturer
+Delta Optical Targeting Systems,China,Beijing,ENTITY_LIST,EAR744,High,BIS,Targeting optics R&D
+Diamond Missile Components,China,Chengdu,MEU,EAR744,High,BIS,Missile fin actuator parts
+Eastern Intelligence Command,China,Wuhan,MIEU,EAR744.22,High,BIS,Intel fusion center
+Elite Industrial Metals,Iran,Tehran,OFAC_SDN,IRAN,High,OFAC,Sanctioned regime-linked entity
+Empire Jet Structures,China,Beijing,MEU,EAR744,High,BIS,Fighter-jet airframe parts
+Everest Metallurgical Works,Pakistan,Lahore,UN_List,UNSCR_1718,Medium,UN,Arms material supplier
+Falcon Military Radar Labs,Pakistan,Islamabad,ENTITY_LIST,EAR744,High,BIS,Radar subsystem testing
+Fars Combat Engineering,Iran,Tehran,OFAC_SDN,NPWMD,High,OFAC,Missile equipment procurement
+FutureTech Autonomous Defense,China,Shenzhen,MEU,EAR744,High,BIS,Autonomous defense drone AI
+Galaxy Tactical Sensors,China,Chengdu,UVL,EAR744,Medium,BIS,IMU procurement unverified
+Global Marine Propulsion Labs,China,Shanghai,MEU,EAR744,High,BIS,Warship propulsion components
+Golden Star Defense Materials,Iran,Tehran,OFAC_SDN,IRAN,High,OFAC,Aerospace precursors
+Green Valley Defense Electronics,China,Beijing,MEU,EAR744,High,BIS,RF processing boards
+Hafez Military Optics,Iran,Shiraz,OFAC_SDN,IRAN,High,OFAC,Weapon sight optics
+Harbin Aero Systems Lab,China,Harbin,MEU,EAR744,High,BIS,Aircraft telemetry components
+Horizon Missile Propulsion,China,Chengdu,MEU,EAR744,High,BIS,Missile propulsion development
+Ibrahim Tactical Engineering,Pakistan,Karachi,UN_List,UNSCR_1540,Medium,UN,Dual-use machine tools
+Iceberg Combat Electronics,Russia,Moscow,MEU,EAR744,High,BIS,EW interference tools
+Imperial Aerospace Robotics,China,Shanghai,MEU,EAR744,High,BIS,Drone swarm AI
+Infinite Defense MicroSystems,China,Beijing,ENTITY_LIST,EAR744,High,BIS,IC tampering concerns
+Inspire Combat Robotics,China,Shenzhen,MEU,EAR744,High,BIS,Combat quadruped robotics
+Iran Defense NanoMaterials,Iran,Tehran,OFAC_SDN,NPWMD,High,OFAC,Composite materials for missiles
+IronBridge Military Steel,Belarus,Minsk,DPL,EAR744,High,BIS,Missile body steel
+Jiangsu Tactical Electronics,China,Jiangsu,MEU,EAR744,High,BIS,UAV targeting boards
+Jinlong Aerospace Navigation,China,Beijing,MEU,EAR744,High,BIS,Navigation computers
+Karam Drone Defense Systems,Pakistan,Islamabad,UN_List,UNSCR_2268,Medium,UN,UAV long-range mods
+KazTech Missile R&D,Kazakhstan,Astana,UVL,EAR744,Medium,BIS,Suspicious procurement routes
+Kinetic Defense Chip Works,China,Shenzhen,MEU,EAR744,High,BIS,High-power radar chips
+Liberty Optoelectronics,Russia,Rostov,MEU,EAR744,High,BIS,Missile optics
+Lion Industrial Naval Systems,UAE,Dubai,UVL,EAR744,Medium,BIS,Marine composites unverified
+Lotus Precision Hard Metals,China,Beijing,ENTITY_LIST,EAR744,High,BIS,Missile alloy manufacturer
+Marine Navigation Intelligence,Russia,Rostov,MEU,EAR744,High,BIS,Naval guidance R&D
+MegaWave Combat Electronics,China,Beijing,MEU,EAR744,High,BIS,RF energy weapons
+Mercury Defense Robotics,China,Chengdu,MEU,EAR744,High,BIS,Robotics for combat units
+MidEast Military Materials,UAE,Sharjah,DPL,EAR744,High,BIS,Diversion risk
+Mirage Aerospace Design,China,Harbin,MEU,EAR744,High,BIS,UAV airframe engineering
+Nano Precision Missile Metals,China,Beijing,MEU,EAR744,High,BIS,Missile body composites
+NeoVision Tactical Optics,China,Shanghai,UVL,EAR744,Medium,BIS,Optical calibration unverified
+NorthStar Marines,Russia,Murmansk,MEU,EAR744,High,BIS,Submarine tech procurement
+Omega Military Systems,China,Shenzhen,MEU,EAR744,High,BIS,Targeting software
+Orbit Missile Dynamics,China,Beijing,MEU,EAR744,High,BIS,Missile steering modules
+Pacific Aero Components,China,Shanghai,UVL,EAR744,Medium,BIS,Jet components unverified
+PanAsia Robotics India,India,New Delhi,UN_List,UNSCR_1373,Low,UN,Suspicious robotics export routing
+Pegasus Defense AI Labs,China,Chengdu,MEU,EAR744,High,BIS,AI threat recognition
+Phoenix Missile Materials,Iran,Tehran,OFAC_SDN,NPWMD,High,OFAC,Advanced metal procurement
+Precision Naval Intelligence,China,Qingdao,MIEU,EAR744.22,High,BIS,Active naval intelligence
+Quantum Combat Systems,China,Beijing,ENTITY_LIST,EAR744,High,BIS,Quantum guidance chips
+Redline Military Automation,China,Wuhan,MEU,EAR744,High,BIS,Tactical automation
+SeaBridge Maritime Security,China,Qingdao,MEU,EAR744,High,BIS,Submarine nav controls
+SteelCore Targeting Bureau,China,Chengdu,MIEU,EAR744.22,High,BIS,Target analysis office
+Titan Defense Materials,China,Beijing,MEU,EAR744,High,BIS,Ballistic-grade alloys
+Universal Aerospace Propulsion,China,Harbin,ENTITY_LIST,EAR744,High,BIS,Jet turbine procurement
+Vector Combat Navigation,China,Beijing,MEU,EAR744,High,BIS,Missile directional controls
+Velox Military Systems,China,Shanghai,MEU,EAR744,High,BIS,Tactical missile parts manufacturer
+Zhonghua Naval Labs,China,Qingdao,MEU,EAR744,High,BIS,Underwater sensor R&D
