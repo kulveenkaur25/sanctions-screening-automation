@@ -21,16 +21,11 @@ It integrates multiple regulatory datasets (OFAC, BIS, UN, MEU/MIEU) and builds 
 - `master_screening_dataset.csv`
 - `master_screening_summary.csv`
 
-### ✔ Project Structure
-
-/data <-- raw + processed datasets
-/src <-- integration and screening code
-/notebooks <-- analysis and visualization
-
 
 ### ✔ How to Run Integration
 ```bash
 python src/data_integration.py
+
 
 Developer
 Kulveen Kaur
